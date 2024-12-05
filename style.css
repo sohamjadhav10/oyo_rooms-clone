@@ -1,0 +1,37 @@
+.nav-link {
+color: rgba(0, 0, 0, 0.674);
+}
+
+.container-main {
+    background-color: rgb(77, 78, 79);
+    height: 250px;
+    width: 100%;
+    
+}
+.search-row {
+    display: flex;
+    border-radius: 10px;
+    height: 100px;
+    justify-content: center;
+}
+.sr1{
+    height: 100px;
+   width: 400px;
+}
+.sr2{
+    height: 100px;
+}
+.sr3{
+    height: 100px;
+}
+.sr4{
+    height: 100px;
+}
+.btn1 {
+    background-color: #ca1818;
+    color: white;
+}
+.btn {
+    background-color: #27ca18;
+    color: white;
+}
